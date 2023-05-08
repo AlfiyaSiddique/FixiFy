@@ -1,0 +1,40 @@
+{
+  "name": "tech_fix_website",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@auth0/auth0-react": "^2.0.1",
+    "@material-tailwind/react": "^1.4.2",
+    "axios": "^1.3.4",
+    "cors": "^2.8.5",
+    "express-validator": "^7.0.1",
+    "formik": "^2.2.9",
+    "gapi-script": "^1.2.0",
+    "multer": "^1.4.5-lts.1",
+    "react": "^18.2.0",
+    "react-animated-numbers": "^0.16.0",
+    "react-dom": "^18.2.0",
+    "react-google-login": "^5.2.2",
+    "react-icons": "^4.8.0",
+    "react-spring": "^9.7.1",
+    "sweetalert2": "^11.7.3",
+    "sweetalert2-react-content": "^5.0.7",
+    "yup": "^1.1.1"
+  },
+  "devDependencies": {
+    "@types/react": "^18.0.27",
+    "@types/react-dom": "^18.0.10",
+    "@vitejs/plugin-react-swc": "^3.0.0",
+    "flowbite-typography": "^1.0.3",
+    "react-router-dom": "^6.9.0",
+    "sass": "^1.62.0",
+    "tailwindcss": "^3.2.7",
+    "vite": "^4.1.0"
+  }
+}
